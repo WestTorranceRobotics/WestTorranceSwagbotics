@@ -4,9 +4,6 @@ import org.usfirst.frc5124.WestTorranceSwagbotics.Robot;
 
 import edu.wpi.first.wpilibj.command.Command;
 
-/**
- *
- */
 public class CatapultLaunch extends Command {
 
     public CatapultLaunch() {
